@@ -1,0 +1,3 @@
+This Framework is being distributed using 2 Licenses, an LGPL3 License and a Commercial License, which will be detailed later on.
+
+This file will change to provide more details as the Project grows bigger and becomes more stable.
